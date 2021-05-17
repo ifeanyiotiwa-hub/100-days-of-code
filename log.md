@@ -1,5 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days of Code log
 
+<!-- To be Deleted 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -27,4 +28,9 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 0: May 17, 2021
+**Todays progress**: Created a Javascript Countdown Project
+**Thoughts:** I really struggled with the css box-sizing property, Hopefully will look into that property again
+**Link To Work:**
