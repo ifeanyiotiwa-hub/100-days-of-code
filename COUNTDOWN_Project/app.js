@@ -23,7 +23,7 @@ const countDown = () => {
     const second = Math.floor((timeGap % m) / s)
     // console.log(second);
 
-    const formattedDay = (day < 10) ? '0' + day: day;
+    const formattedDay = (day < 10) ? '0' + day: day; // To display double digit
     const formattedHour = (hour < 10) ? '0' + hour: hour;
     const formattedMinute = (minute < 10) ? '0' + minute: minute;
     const formattedSecond = (second < 10) ? '0' + second: second;

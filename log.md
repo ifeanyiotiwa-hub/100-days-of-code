@@ -33,4 +33,4 @@
 ### Day 0: May 17, 2021
 **Todays progress**: Created a Javascript Countdown Project
 **Thoughts:** I really struggled with the css box-sizing property, Hopefully will look into that property again
-**Link To Work:**
+**Link To Work:** [COUNTDOWN_Project/]
