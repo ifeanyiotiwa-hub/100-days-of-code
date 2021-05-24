@@ -1,6 +1,6 @@
 const countDown = () => {
    
-    const countDate = new Date("August 17, 2021 00:00:00").getTime(); // gets the interval in seconds between now till August 17 2021 12am
+    const countDate = new Date("July 1, 2021 00:00:00").getTime(); // gets the interval in seconds between now till August 17 2021 12am
     // console.log(countDate);
     const present = new Date().getTime();
     // console.log(present);
